@@ -34,6 +34,7 @@ The output should be a nested object of the tree formed from the list. Each obje
   "children": [
     {
       "id": 3,
+      "value": 8,
       "children": [
         {
           "id": 2,
@@ -45,8 +46,7 @@ The output should be a nested object of the tree formed from the list. Each obje
           "value": 10,
           "children": []
         }
-      ],
-      "value": 8
+      ]
     },
     {
       "id": 4,
